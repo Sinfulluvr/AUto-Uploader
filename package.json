@@ -1,0 +1,31 @@
+{
+  "name": "dizzy-condos-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.18.1",
+    "expressjs": "^1.0.1",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "gist": "^0.2.0",
+    "http": "^0.0.1-security",
+    "linkvertise": "^1.0.1",
+    "noblox.js": "^4.13.1",
+    "node-console-colors": "^1.1.4",
+    "node-fetch": "^3.2.10",
+    "octokit": "^2.0.7",
+    "pastebin-js": "^1.0.6",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "wait-until": "^0.0.2",
+    "webhook-discord": "^3.7.8"
+  }
+}
